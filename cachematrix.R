@@ -23,5 +23,5 @@ makeCacheMatrix <- function(x = matrix()) {
 # cache.
 
 cacheSolve <- function(x, ...) {
-        ## Return a matrix that is the inverse of 'x'
+        ## 1Return a matrix that is the inverse of 'x'
 }
